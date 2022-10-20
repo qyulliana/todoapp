@@ -1,0 +1,41 @@
+.todoInputUp{
+    padding: 10px;
+    width: 255px;
+    margin-right: 28px;
+    outline: none;
+    border: solid 1px #999;
+
+}
+
+.todoUpdateForm{
+    margin-top: 20px;
+}
+
+.todoInfo{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.buttonE, .buttonU{
+    margin-left: 16px;
+    padding: 9px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.buttonD{
+
+    padding: 9px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.itemTitle{
+  color: #061F34;
+}

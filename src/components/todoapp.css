@@ -1,0 +1,39 @@
+.todoContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+.todoInput{
+    width: 260px;
+    padding: 10px;
+    font-size: 16px;
+    outline: none;
+    border-radius: 3px;
+    border: solid 1px #999;
+    background-color: white;
+}
+
+.buttonCreate{
+    margin-left: 16px;
+    padding: 10px 20px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.todoCreateForm{
+    margin-top: 60px;
+}
+
+.title-form{
+    text-align: center;
+    margin-top: 10px;
+    color: cornflowerblue;
+
+}
